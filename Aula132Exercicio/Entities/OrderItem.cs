@@ -1,11 +1,10 @@
-﻿using CLass132Exercicio.Entities;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class132Exercicio.Entities
+namespace CLass132Exercicio.Entities
 {
     class OrderItem
     {

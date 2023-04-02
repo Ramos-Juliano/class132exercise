@@ -1,12 +1,11 @@
 ﻿using Class132.Entities.Enums;
-using CLass132Exercicio.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class132Exercicio.Entities
+namespace CLass132Exercicio.Entities
 {
     class Order
     {
@@ -20,6 +19,27 @@ namespace Class132Exercicio.Entities
 
         }
 
-        
+        public Order(DateTime moment, OrderStatus status, Client cLient)
+        {
+            Moment = moment;
+            Status = status;
+            CLient = cLient;
+        }
+
+        public void AddItem(OrderItem item)
+        {
+            Items.Add(item);
+        }
+
+        public void RemoveItem(OrderItem item) 
+        {
+            Items.Remove(item);        
+        }
+
+        public double Total()
+        {
+
+        }
+
     }
 }

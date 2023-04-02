@@ -1,0 +1,15 @@
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\bin\Debug\net6.0\Aula132Exercicio.exe
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\bin\Debug\net6.0\Aula132Exercicio.deps.json
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\bin\Debug\net6.0\Aula132Exercicio.runtimeconfig.json
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\bin\Debug\net6.0\Aula132Exercicio.dll
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\bin\Debug\net6.0\Aula132Exercicio.pdb
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\Aula132Exercicio.csproj.AssemblyReference.cache
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\Aula132Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\Aula132Exercicio.AssemblyInfoInputs.cache
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\Aula132Exercicio.AssemblyInfo.cs
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\Aula132Exercicio.csproj.CoreCompileInputs.cache
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\Aula132Exercicio.dll
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\refint\Aula132Exercicio.dll
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\Aula132Exercicio.pdb
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\Aula132Exercicio.genruntimeconfig.cache
+C:\CsharpDotNet\Udemy\Aula132ExercicioProposto\Aula132Exercicio\Aula132Exercicio\obj\Debug\net6.0\ref\Aula132Exercicio.dll
