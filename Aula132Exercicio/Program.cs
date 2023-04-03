@@ -1,12 +1,11 @@
 ﻿using CLass132Exercicio.Entities;
 using Class132.Entities.Enums;
-using System.Runtime.CompilerServices;
 using System.Globalization;
 
 Console.WriteLine("Enter cliente data:");
 Console.Write("Name: ");
 string name = Console.ReadLine();
-Console.Write("E-mail");
+Console.Write("E-mail: ");
 string email = Console.ReadLine();
 Console.Write("Birth date (DD/MM/YYYY): ");
 DateTime birthDate = DateTime.Parse(Console.ReadLine());
@@ -26,13 +25,18 @@ for(int i = 1; i <= amount; i++)
     Console.Write("Product name: ");
     string productName = Console.ReadLine();
     Console.Write("Product price: ");
-    double producPrice = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    double productPrice = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
     Console.Write("Quantity: ");
     int quantity = int.Parse(Console.ReadLine());
 
-    Product product = new Product(productName, producPrice);
-    OrderItem orderItem = new OrderItem(quantity, producPrice, product);
+    Product product = new Product(productName, productPrice);
+    OrderItem orderItem = new OrderItem(quantity, productPrice, product);
+    order.AddItem(orderItem);
+
 }
+Console.WriteLine();
+Console.WriteLine("ORDER SUMMARY:");
+Console.WriteLine(order.ToString());
 
 
 
