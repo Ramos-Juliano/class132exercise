@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CLass132Exercicio.Entities
+namespace CLass132.Entities
 {
     class OrderItem
     {

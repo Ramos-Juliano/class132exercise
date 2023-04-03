@@ -1,4 +1,4 @@
-﻿namespace CLass132Exercicio.Entities
+﻿namespace CLass132.Entities
 {
     class Product
     {

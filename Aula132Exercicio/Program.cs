@@ -1,10 +1,10 @@
-﻿using CLass132Exercicio.Entities;
+﻿using CLass132.Entities;
 using Class132.Entities.Enums;
 using System.Globalization;
 
 Console.WriteLine("Enter cliente data:");
 Console.Write("Name: ");
-string name = Console.ReadLine();
+string ClientName = Console.ReadLine();
 Console.Write("E-mail: ");
 string email = Console.ReadLine();
 Console.Write("Birth date (DD/MM/YYYY): ");
@@ -13,7 +13,7 @@ Console.WriteLine("Enter order data:");
 Console.Write("Status: ");
 OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
 
-Client client = new Client(name, email, birthDate);
+Client client = new Client(ClientName, email, birthDate);
 Order order = new Order(DateTime.Now, status, client);
 
 Console.WriteLine("How many items to this order? ");
